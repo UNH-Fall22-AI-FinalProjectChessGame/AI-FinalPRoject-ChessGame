@@ -1,5 +1,9 @@
 
 
+## TO Run the Game
+Download the Files and folders as it is and run chess.py to play the game.
+
+
 ## References:
 * Program Uses pygame: http://www.pygame.org/
 
@@ -78,6 +82,8 @@ IMPORTANT NOTE: At this time, the maximum depth is 3 plys. The algorithm is in f
 
 * Default depth is set to 3, project can be evaluated by changing the deptth to different values and measure its performance.
   Depth can be changed in board.py --> init constructor --> self.MAXDEPTH
+  
+  
 
 
 
